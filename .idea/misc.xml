@@ -9,11 +9,15 @@
         <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/activity_latihan_satu.xml" value="0.1675925925925926" />
         <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/activity_main_latihan_tiga.xml" value="0.1778115501519757" />
         <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/activity_main_sf.xml" value="0.1" />
         <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/activity_main_sfdua.xml" value="0.12" />
         <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/activity_splash_dua.xml" value="0.33" />
         <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/activity_splash_satu.xml" value="0.18802083333333333" />
         <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/fragment_register.xml" value="0.22" />
+        <entry key="..\:/Android Project/ChapterEmpatSharedPreferences/app/src/main/res/layout/fragment_splash.xml" value="0.1" />
       </map>
     </option>
   </component>

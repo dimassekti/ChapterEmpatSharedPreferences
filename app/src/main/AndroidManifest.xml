@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ChapterEmpatSharedPreferences">
         <activity
+            android:name=".latihantiga.MainLatihanTigaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".latihantiga.SplashTiga"
+            android:exported="false" />
+        <activity
             android:name=".latihandua.HomeActivity"
             android:exported="false" />
         <activity
